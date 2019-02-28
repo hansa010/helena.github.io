@@ -1,11 +1,6 @@
 
-
 .container {
     max-width: 960px;
-}
-#nav-custom {
-    background-color: #e28344;
-    text-align: center;
 }
 .site-header a {
     color: black !important;
