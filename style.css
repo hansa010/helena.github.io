@@ -1,0 +1,73 @@
+
+
+.container {
+    max-width: 960px;
+}
+#nav-custom {
+    background-color: #e28344;
+    text-align: center;
+}
+.site-header a {
+    color: black !important;
+}
+#icon-menu {
+    display: none;
+    width: 34px;
+    height: 34px;
+}
+
+#profil img {
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#profil img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+    color: #999;
+    transition: ease-in-out color .15s;
+}
+.site-header a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/*
+ * Extra utilities
+ */
+
+.flex-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+}
+@media (min-width: 768px) {
+    .flex-md-equal > * {
+        -ms-flex: 1;
+        flex: 1;
+    }
+
+}
+@media screen and (max-width: 767px) {
+    #icon-menu {
+        display: inline-block;
+    }
+}
+
+.overflow-hidden { overflow: hidden; }
