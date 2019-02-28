@@ -5,11 +5,6 @@
 .site-header a {
     color: black !important;
 }
-#icon-menu {
-    display: none;
-    width: 34px;
-    height: 34px;
-}
 
 #profil img {
     width: 400px;
@@ -60,8 +55,9 @@
 
 }
 @media screen and (max-width: 767px) {
-    #icon-menu {
-        display: inline-block;
+    #profil img {
+        width: 80%;
+        height: 80%;
     }
 }
 
