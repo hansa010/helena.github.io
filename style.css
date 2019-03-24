@@ -28,7 +28,7 @@ li {
 p {
     text-align: justify;
 }
-p.somename {
+p.lead font-weight-normal {
    text-align: center !important;
 }
 /*
