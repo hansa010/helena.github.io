@@ -21,9 +21,13 @@
     border-radius: 10px;
 }
 li {
-    text-align: right;
+    text-align: justify;
     margin-left: 40px;
     margin-right: 40px;
+}
+p
+{
+    text-align: justify;
 }
 /*
  * Custom translucent site header
