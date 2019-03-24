@@ -31,6 +31,10 @@ p {
 h4 {
    text-align: center;
 }
+ul {
+    margin: 0;
+    padding: 0;
+}
 /*
  * Custom translucent site header
  */
