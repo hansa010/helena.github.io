@@ -25,9 +25,11 @@ li {
     margin-left: 40px;
     margin-right: 40px;
 }
-p
-{
+p {
     text-align: justify;
+}
+p.somename {
+   text-align: center !important;
 }
 /*
  * Custom translucent site header
