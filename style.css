@@ -52,6 +52,11 @@ ul {
     color: #fff;
     text-decoration: none;
 }
+.div-wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
 
 
 /*
