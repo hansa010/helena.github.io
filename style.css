@@ -90,6 +90,24 @@
     box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
     border-radius: 10px;
 }
+#iconright img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#iconright img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#rightheader {
+    float: right;
+    text-align: right;
+}
 li {
     text-align: justify;
     margin-left: 20px;
@@ -142,15 +160,35 @@ ul {
     -ms-flex: 1;
     flex: 1;
 }
-@media (min-width: 768px) {
+@media (min-width: 1068px) {
     .flex-md-equal > * {
         -ms-flex: 1;
         flex: 1;
     }
 
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1067px) {
     #profil img {
+        width: 80%;
+        height: 80%;
+    }
+    #iconright img {
+        width: 0%;
+        height: 0%;
+    }
+    #kommunikation img {
+        width: 80%;
+        height: 80%;
+    }
+    #sprachverstaendnis img {
+        width: 80%;
+        height: 80%;
+    }
+    #mediuspraxis img {
+        width: 80%;
+        height: 80%;
+    }
+    #buchstaben img {
         width: 80%;
         height: 80%;
     }
