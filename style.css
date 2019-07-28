@@ -108,6 +108,12 @@
     float: right;
     text-align: right;
 }
+#uebermichlink {
+    color: aqua;
+}
+#kontaktlink {
+    color: aqua;
+}
 li {
     text-align: justify;
     margin-left: 20px;
