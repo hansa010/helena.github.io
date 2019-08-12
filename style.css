@@ -111,8 +111,40 @@
 #uebermichlink {
     color: aqua;
 }
+#uebermichlink2 {
+    color: aqua;
+}
+#uebermichlink3 {
+    color: aqua;
+}
 #kontaktlink {
     color: aqua;
+}
+#tariflink {
+    color: aqua;
+}
+#kontaktlink2 {
+    color: aqua;
+}
+#logoangebot {
+    color: aqua;
+}
+#faqangebot {
+    color: aqua;
+}
+#telnr {
+    color: white;
+}
+
+#title-logo {
+    text-align: center;
+}
+#title2 {
+    text-align: center;
+    font-size: 1.5em;
+}
+#title3 {
+    text-align: center;
 }
 li {
     text-align: justify;
@@ -123,13 +155,15 @@ p {
     text-align: justify;
 }
 h1{
-    font-size: 2em;
+    font-size: 1.75em;
 }
 h2{
     font-size: 1.75em;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 1em;
+    text-align: left;
+    font-weight: 200;
 }
 h4 {
     font-size: 2em;
@@ -204,10 +238,16 @@ ul {
     #title-logo {
         font-size: 2.4em;
     }
+    #title2 {
+        font-size: 1.4em;
+    }
 }
 @media screen and (max-width: 1370px) {
     #title-logo {
         font-size: 2.4em;
+    }
+    #title2 {
+        font-size: 1.4em;
     }
 }
 
