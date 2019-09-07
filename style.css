@@ -62,6 +62,20 @@
     box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
     border-radius: 10px;
 }
+#verstaendnis img {
+    width: 400px;
+    height: 278px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#verstaendnis img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
 #buchstaben img {
     width: 400px;
     height: 267px;
@@ -83,6 +97,146 @@
     margin-bottom: 2em;
 }
 #mediuspraxis img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#schreiben img {
+    width: 400px;
+    height: 267px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#schreiben img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#schlucken img {
+    width: 400px;
+    height: 267px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#schlucken img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#schlaganfall img {
+    width: 400px;
+    height: 267px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#schlaganfall img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#schlaganfall2 img {
+    width: 400px;
+    height: 320px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#schlaganfall2 img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#taping img {
+    width: 400px;
+    height: 267px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#taping img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#kanuele img {
+    width: 400px;
+    height: 267px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#kanuele img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#oma img {
+    width: 400px;
+    height: 290px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#oma img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#opa img {
+    width: 400px;
+    height: 290px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#opa img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#kind img {
+    width: 400px;
+    height: 260px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#kind img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#kind_zunge img {
+    width: 400px;
+    height: 270px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#kind_zunge img:hover {
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
@@ -249,7 +403,51 @@ ul {
         width: 80%;
         height: 80%;
     }
+    #verstaendnis img {
+        width: 80%;
+        height: 80%;
+    }
     #mediuspraxis img {
+        width: 80%;
+        height: 80%;
+    }
+    #schreiben img {
+        width: 80%;
+        height: 80%;
+    }
+    #schlucken img {
+        width: 80%;
+        height: 80%;
+    }
+    #schlaganfall img {
+        width: 80%;
+        height: 80%;
+    }
+    #schlaganfall2 img {
+        width: 80%;
+        height: 80%;
+    }
+    #taping img {
+        width: 80%;
+        height: 80%;
+    }
+    #kanuele img {
+        width: 80%;
+        height: 80%;
+    }
+    #oma img {
+        width: 80%;
+        height: 80%;
+    }
+    #opa img {
+        width: 80%;
+        height: 80%;
+    }
+    #kind img {
+        width: 80%;
+        height: 80%;
+    }
+    #kind_zunge img {
         width: 80%;
         height: 80%;
     }
