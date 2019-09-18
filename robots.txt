@@ -1,0 +1,8 @@
+
+Crawl-delay:
+
+# Sitemap files
+Sitemap: https://logo-on-tour-pernul.at/sitemap.xml
+
+User-agent:*
+Allow :/
