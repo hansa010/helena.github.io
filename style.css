@@ -62,6 +62,62 @@
     box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
     border-radius: 10px;
 }
+#pflegeheim img {
+    width: 400px;
+    height: 278px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#pflegeheim img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#aphasie img {
+    width: 400px;
+    height: 278px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#aphasie img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#zahnspange img {
+    width: 400px;
+    height: 230px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#zahnspange img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
+#speech img {
+    width: 278px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+#speech img:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+}
 #verstaendnis img {
     width: 400px;
     height: 278px;
@@ -400,6 +456,22 @@ ul {
         height: 80%;
     }
     #sprachverstaendnis img {
+        width: 80%;
+        height: 80%;
+    }
+    #pflegeheim img {
+        width: 80%;
+        height: 80%;
+    }
+    #zahnspange img {
+        width: 80%;
+        height: 80%;
+    }
+    #aphasie img {
+        width: 80%;
+        height: 80%;
+    }
+    #speech img {
         width: 80%;
         height: 80%;
     }
